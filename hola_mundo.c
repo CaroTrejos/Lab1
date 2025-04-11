@@ -7,6 +7,6 @@
 // Mi función main
 int main() {
   int test = 4;
-  printf("Hola mundo! Bienvenidos al mundo de C! :) \n");
+  printf("Hola mundo! \n");
 }
 
