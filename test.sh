@@ -2,4 +2,4 @@
 
 echo `date`
 
-lsusb
+dmesg
